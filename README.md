@@ -5,7 +5,7 @@ Escritor de Notas é um aplicativo web simples que permite criar, visualizar e o
 ✔ Escolher cores personalizadas – Diferencie suas notas por categoria ou importância.  
 ✔ Exibir notas na tela – As anotações são organizadas de forma clara e acessível.  
 ✔ Excluir notas – Remova facilmente quando não precisar mais.  
-✔ Armazenamento local (opcional) – As notas podem ser salvas no navegador usando localStorage, mantendo-as disponíveis mesmo após fechar a página.  
+✔ Armazenamento local    
 
 ## 🛠 Tecnologias utilizadas
 * HTML – Estrutura da página  
